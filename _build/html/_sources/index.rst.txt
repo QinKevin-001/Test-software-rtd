@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Lunabot docs's documentation!
+Welcome to Lunabot's documentation!
 ========================================
-Hello 
+*This* is the **main page** for ``software`` docs.
 
 .. toctree::
    :maxdepth: 2
