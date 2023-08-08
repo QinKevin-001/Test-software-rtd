@@ -12,7 +12,7 @@ Welcome to Lunabot's documentation!
    :hidden:
    :caption: MAIN Docs:
 
-   Docs/Firmware Docs
-   Docs/Software Docs
+   Documentation/Firmware Docs
+   Documentation/Software Docs
 
 
