@@ -5,16 +5,14 @@
 
 Welcome to Lunabot docs's documentation!
 ========================================
+Hello 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :caption: MAIN Docs:
+
+   Docs/Firmware Docs
+   Docs/Software Docs
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
